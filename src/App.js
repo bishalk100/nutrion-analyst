@@ -95,7 +95,7 @@ class App extends Component {
         <Card classname="card" style={{width : '25rem'}}>
       
           <Card.Body classname="card-body">
-            <Card.Title>Nutrition Analysis API Demo</Card.Title>
+            <Card.Title>Nutrition Analysis API Demo <i class="fal fa-utensils-alt"></i></Card.Title>
             <p class="card-text">Enter an ingredient list list for what you are cooking, like <span>"1 cup rice, 10 oz chickpeas"</span>, etc.
               Enter each ingredient on a new line.
             </p>
